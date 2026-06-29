@@ -4,9 +4,8 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Nasir Ali
-
-### Senior .NET Backend Engineer • Enterprise API Specialist • Problem Solver
+# 👋 Hi, I'm Nasir Ali  
+### Senior .NET Backend Engineer | Enterprise APIs | Distributed Systems | Clean Architecture
 
 Building secure, scalable, enterprise-grade software with the Microsoft technology stack.
 
@@ -167,16 +166,17 @@ Visual Studio
 
 ---
 
-# 📈 GitHub Analytics
+## 📊 GitHub Stats
 
-<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Nasiralikhan19900&show_icons=true&theme=tokyonight" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Nasiralikhan19900&show_icons=true&theme=github_dark&hide_border=true"/>
+## 🔥 Streak Stats
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasiralikhan19900&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Nasiralikhan19900&theme=tokyonight" />
 
-</p>
+## 💻 Top Languages
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasiralikhan19900&layout=compact&theme=tokyonight" />
 ---
 
 # 🔥 Contribution Streak
